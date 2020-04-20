@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+}
+
+form,
+.form-inline {
+  justify-content: center;
+}
+
+#zipId {
+  margin-right: 10px;
+}
+
+#unitsId {
+  margin-right: 20px;
+}
+
+.weather-boxes {
+  justify-content: center;
+}
+.detail {
+  margin-bottom: 0px;
+}
+
+#add-zipcode {
+  width: 100px;
+}
+
+#select-units {
+  width: 120px;
+}
